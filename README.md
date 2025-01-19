@@ -10,12 +10,11 @@
 ## Vision
 - [SCALING IN-THE-WILD TRAINING FOR DIFFUSIONBASED ILLUMINATION HARMONIZATION AND EDITING BY IMPOSING CONSISTENT LIGHT TRANSPORT](https://openreview.net/pdf?id=u1cQYxRI1H)
 - [Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views](https://arxiv.org/pdf/2312.04424)
-- [Adding Conditional Control to Text-to-Image Diffusion Models](Adding Conditional Control to Text-to-Image Diffusion Models)
-- [Learning a Neural Solver for Multiple Object Tracking](Learning a Neural Solver for Multiple Object Tracking)
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543)
+- [Learning a Neural Solver for Multiple Object Tracking](https://arxiv.org/pdf/1912.07515)
 - [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427)
 - [Subsurface Scattering for 3D Gaussian Splatting](https://arxiv.org/pdf/2408.12282)
-- [SwitchLight: Co-design of Physics-driven Architecture and
-- [Pre-training Framework for Human Portrait Relighting](https://arxiv.org/pdf/2402.18848)
+- [SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting](https://arxiv.org/pdf/2402.18848)
 - [Relightful Harmonization: Lighting-aware Portrait Background Replacement](https://arxiv.org/pdf/2312.06886)
 - [Total Relighting: Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf)
 
