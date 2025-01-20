@@ -35,6 +35,22 @@
 | SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting | [PDF](https://arxiv.org/pdf/2402.18848) |
 | Relightful Harmonization: Lighting-aware Portrait Background Replacement | [PDF](https://arxiv.org/pdf/2312.06886) |
 | Total Relighting: Learning to Relight Portraits for Background Replacement | [PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf) |
+| Neural Gaffer: Relighting Any Object via Diffusion | [PDF](https://arxiv.org/pdf/2406.07520) |
+| NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting | [PDF](https://arxiv.org/pdf/2107.12351) |
+| Deep Single-Image Portrait Relighting | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf) |
+| The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting | [PDF](https://augmentedperception.github.io/therelightables/) |
+| Temporally Consistent Relighting for Portrait Videos | [PDF](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Chandran_Temporally_Consistent_Relighting_for_Portrait_Videos_WACVW_2022_paper.pdf) |
+| DifFRelight: Diffusion-Based Facial Performance Relighting | [PDF](https://arxiv.org/pdf/2410.08188) |
+| Real-time 3D-aware Portrait Video Relighting | [PDF](https://arxiv.org/pdf/2410.18355) |
+| Total Relighting:Learning to Relight Portraits for Background Replacement | [PDF](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf) |
+| Lite2Relight: 3D-aware Single Image Portrait Relighting | [PDF](https://arxiv.org/pdf/2407.10487) |
+| Relightful Harmonization: Lighting-aware Portrait Background Replacement | [PDF](https://arxiv.org/pdf/2312.06886) |
+| DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | [PDF]([https://arxiv.org/pdf/2312.06886](https://arxiv.org/pdf/2208.12242)) |
+| Lite2Relight: 3D-aware Single Image Portrait Relighting | [PDF](https://arxiv.org/pdf/2407.10487) |
+| Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation | [PDF](https://arxiv.org/pdf/2209.10510) |
+
+
+
 
 ### Tracking & Relational Reasoning
 | Title | Link |
