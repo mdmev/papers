@@ -107,3 +107,10 @@
 |-------|------|
 | data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language | [PDF](https://arxiv.org/pdf/2202.03555) |
 | The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need | [PDF](https://arxiv.org/pdf/2312.05695) |
+
+---
+
+## Gaussian Splatting
+| Title | Link |
+|-------|------|
+| Awesome Gaussian Splatting papers | [LINK](https://mrnerf.github.io/awesome-3D-gaussian-splatting/) |
